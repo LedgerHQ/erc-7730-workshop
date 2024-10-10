@@ -1,0 +1,4 @@
+[submodule "clear-signing-erc7730-registry"]
+	path = clear-signing-erc7730-registry
+	url = https://github.com/LedgerHQ/clear-signing-erc7730-registry
+	branch = demo
